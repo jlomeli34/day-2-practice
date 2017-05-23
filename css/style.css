@@ -1,0 +1,30 @@
+
+.col-sm-12{
+  background-color: yellow;
+  height: 605px;
+}
+header .col-sm-12{
+  height: 120px;
+  background-color: blue;
+  margin-top: 15px;
+}
+nav .col-sm-12{
+  height: 35px;
+  background-color: green;
+}
+.col-sm-9{
+  background-color: red;
+  height:200px;
+}
+.col-sm-3{
+  background-color: #66ccff;
+  height: 200px;
+}
+promo .col-sm-3{
+  background-color:#ff9933;
+  height: 150px;
+}
+footer .col-sm-12 {
+  background-color: black;
+  height: 45px;
+}
