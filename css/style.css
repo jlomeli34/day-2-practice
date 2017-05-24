@@ -7,24 +7,30 @@ header .col-sm-12{
   height: 120px;
   background-color: blue;
   margin-top: 15px;
+  border: 1px solid;
 }
 nav .col-sm-12{
   height: 35px;
   background-color: green;
+    border: 1px solid;
 }
 .col-sm-9{
   background-color: red;
   height:200px;
+  border: 1px solid;
 }
 .col-sm-3{
   background-color: #66ccff;
   height: 200px;
+  border: 1px solid;
 }
 promo .col-sm-3{
   background-color:#ff9933;
   height: 150px;
+  border: 1px solid;
 }
 footer .col-sm-12 {
   background-color: black;
   height: 45px;
+  border: 1px solid;
 }
